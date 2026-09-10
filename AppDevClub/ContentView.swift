@@ -15,7 +15,7 @@ struct ContentView: View {
                     .font(.largeTitle.bold())
                     .frame(maxWidth: .infinity, alignment: .leading)
                     .padding(.horizontal)
-                // Manish()
+                Manish()
                 // One Line per member
             }
             .padding(.vertical)
