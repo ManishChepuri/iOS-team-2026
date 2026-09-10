@@ -12,10 +12,10 @@ Concepts Learned:
 * `@State`
 
 ### Meeting 2:
-- Work on Project
+- Work on Project 1
 
 ### Meeting 3:
-- Finish up Project
+- Finish up Project 1
 
 ## Project 2 - Pack Ratings
 Concepts Learned:
@@ -28,7 +28,7 @@ Concepts Learned:
 
 
 ### Meeting 4:
-- Work on Project
+- Work on Project 2
 
 ### Meeting 5:
-- Finish up Project
+- Finish up Project 2
