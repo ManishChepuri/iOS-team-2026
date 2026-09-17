@@ -1,11 +1,11 @@
 import SwiftUI
 
-struct _Template: View {
-    let name        = "{Your Name}"
-    let major       = "{Your Major}"
+struct Joe: View {
+    let name        = "Jo"
+    let major       = "Computer Science"
     let cardColor   = Color.red
     let funFact     = "One fun fact about you"
-    let imageName   = "person.fill"  // Replace with your image name
+    let imageName   = "chicken"  // Replace with your image name
     
     var body: some View {
         HStack(spacing: 16) {
@@ -26,7 +26,8 @@ struct _Template: View {
             // Right VStack - picture
             VStack {
                 Image(imageName)
-                    .font(.system(size: 48))
+                    .resizable()
+                    .scaledToFill()
                     .foregroundStyle(.white)
             }
             .frame(width: 100, height: 100)
@@ -44,5 +45,5 @@ struct _Template: View {
 }
 
 #Preview {
-    _Template()
+    Joe()
 }

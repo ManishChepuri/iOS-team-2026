@@ -14,9 +14,13 @@ struct ContentView: View {
                 Text("iOS Team")
                     .font(.largeTitle.bold())
                     .frame(maxWidth: .infinity, alignment: .leading)
-                    .padding(.horizontal)
+                    .padding(.horizontal);
                 Manish()
-                // One Line per member
+                DanielDong()
+                Hruday()
+                Joe()
+                Vedant()
+
             }
             .padding(.vertical)
         }

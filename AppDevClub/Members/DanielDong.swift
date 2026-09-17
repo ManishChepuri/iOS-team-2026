@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct Daniel: View {
+struct DanielDong: View {
     let name        = "{Daniel}"
     let major       = "{CSC}"
     let year       = "{Sophmore}"
@@ -49,5 +49,5 @@ struct Daniel: View {
 }
 
 #Preview {
-    Daniel()
+    DanielDong()
 }
