@@ -20,7 +20,10 @@ struct ContentView: View {
                 Hruday()
                 Joe()
                 Vedant()
-
+                David()
+                Maria()
+                Erin()
+                Joshua()
             }
             .padding(.vertical)
         }
